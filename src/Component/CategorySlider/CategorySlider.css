@@ -1,0 +1,15 @@
+.imgimg1 img{
+    height: 150px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: top;
+}
+.imgimg2 img{
+    height: 150px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: bottom;
+}
+.catName{
+    color: #576397;
+}
